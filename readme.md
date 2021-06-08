@@ -24,7 +24,8 @@ Column 1 Heading | Column 2 Heading
 Some content | Other content
 
 
-> Note
+> This is
+> a blockquote
 >
-> > Here you can add your quations <br>
+> > Nested
 > > Blockquote
