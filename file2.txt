@@ -1,1 +1,3 @@
 1st line added after hard reset
+add this codes line codes one task_A and commit
+(the two lines from 2 branches were added manually)
